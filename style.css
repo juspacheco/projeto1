@@ -1,0 +1,48 @@
+header {
+    background-color: #FFF8DC;
+    color: black;
+}
+
+body {
+    text-align: center;
+    background-color: #FFE4E1;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+span {
+    color: #DC143C;
+            border: 1px solid #DC143C;
+            padding: 10px;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center; 
+}
+img {
+    text-align: center;
+}
+a {
+    text-align: center;
+    background-color: #DC143C;
+    color: white;
+}
+p {
+    color: dark;
+}
+footer {
+    background-color: white;
+    color: #DC143C;
+}
+strong {
+    color: #FFFFE0
+}
+h3 {
+    color:#DC143C
+}
+ol {
+    text-align: left;
+}
